@@ -1,6 +1,10 @@
 # Motogarage
 
-In this project the design of a garage for motorcycles was made, implementing at the same time different sensors and actuators for enhancing the user expirience.
+In this project the design of a garage for motorcycles was made, implementing at the same time different sensors and actuators for enhancing the user experience.
+<p align="center">
+<img src="https://github.com/alejandro3141592/Motogarage/assets/132953325/a3247861-8581-4d9a-8896-5727bf6d658f"/>
+</p>
+
 
 I contributed to the project with part of the design in SolidWorks of the structure of the Motogarage.
 I also designed the PCBs of power and control for the scale mode of the motogarage.
