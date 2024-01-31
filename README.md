@@ -10,7 +10,7 @@ This project included the design in SolidWorks and the manufacture of the scale 
 
 For this, I designed the PCBs of power and control, which allowed me to enhance the user experience. Among the features the model demonstrated was the implementation of automatic lights, that turned on when the door was open, and off when it was closed; the implementation of a safe lock system using an electromagnetic solenoid; the development of an RFID reader, that unlocked the door with the right card and the development of an App, with which I could control the lights and the lock.
 
-For this, I also developed the code needed for the microcontroller, and the App using the MIT App Inventor software.
+In addition, I also developed the code needed for the microcontroller, and the App using the MIT App Inventor software.
 <p align="center">
 <img src="https://github.com/alejandro3141592/Motogarage/assets/132953325/f32864d6-be07-4fe8-88cd-a4e173e5b2ee"/>
 </p>
