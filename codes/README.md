@@ -1,1 +1,1 @@
-
+In this folder, the main code for the ESP32 is presented. This code has the logic to turn on the LEDs, control the lock mechanism, read the RFID card, and interact with an external app made in the MIT app Inventor software.
